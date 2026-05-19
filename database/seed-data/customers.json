@@ -1,0 +1,5 @@
+[
+  { "id": "BRONZECO",  "tier": "bronze", "contractGrants": ["SCL-10"], "contractPrices": { "SAL-100": 3.50 } },
+  { "id": "SILVERMED", "tier": "silver", "contractGrants": ["EQ-LED"], "contractPrices": {} },
+  { "id": "GOLDHOSP",  "tier": "gold",   "contractGrants": [],         "contractPrices": { "GLV-NIT": 10.00 } }
+]
